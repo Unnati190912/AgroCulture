@@ -114,6 +114,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@navaaz30](https://github.com/navaaz30)
+Your Name - [@unnati190912](https://github.com/Unnati190912/AgroCulture/edit/main/README.md#L117C52)
 
 Project Link: [https://github.com/navaaz30/AgroCulture](https://github.com/navaaz30/AgroCulture) 
