@@ -9,6 +9,10 @@ AgroCulture is a web-based e-commerce platform that connects farmers directly wi
   - Secure login system
   - Profile management
 
+https://github.com/user-attachments/assets/36686fcc-6471-40c7-a3b5-ba5bd025d0ed
+
+
+
 - **Product Management**
   - Farmers can list their products
   - Product categorization (Fruits, Vegetables, Grains, etc.)
